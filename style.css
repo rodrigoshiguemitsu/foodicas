@@ -8,7 +8,7 @@
 }
 
 body, html {
-    background-color: rgba(255, 0, 0, 0.438);
+    background-color:rgba(0, 0, 0, 0.253);
 }
 
 header{
@@ -164,5 +164,25 @@ h5 {
     margin-top: -25px;
     
  }
+
+.icorod {
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 155px;
+}
+.icorod ul {
+    list-style: none;
+    display: flex;
+    margin-left: 10px;
+}
+.icorod li{
+    margin-left:3px;
+    margin-right: 3px;
+}
+.icorod li img {
+    border-radius: 100px;
+    margin-bottom: -10px;
+}
 
 
