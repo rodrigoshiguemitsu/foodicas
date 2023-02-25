@@ -71,7 +71,7 @@ menu > ul > li > a:hover{
 }
 
 main{
-    width: 90vw;
+    width: 99vw;
     background-color: white;
     margin: auto;
     margin-top: 10px;
@@ -80,7 +80,7 @@ main{
 }
 
 /*Barra de rolagem*/
-::-webkit-scrollbar{
+::-webkit-scrollbar {
     height: 0px;
     width: 0px;
     border-radius: 5px;
