@@ -140,7 +140,7 @@ main{
  
  .q2 {
     margin-top: 0px;
-    background-color: red;
+    background-color:rgba(0, 0, 0, 0.062);
     overflow: scroll;
     height: 300px;
     border-radius: 10px;
@@ -165,7 +165,7 @@ main{
  }
 h5 {
     text-align: center;
-    color: white;
+    color: black;
     margin-top: -25px;
     
  }
