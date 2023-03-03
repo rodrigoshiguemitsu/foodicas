@@ -9,12 +9,13 @@
 
 body {
     background-color:rgba(0, 0, 0, 0.253);
-    width: 100vw;
-    height: 100vh;
+    
+    
 }
 
 header{
     background-color: white;
+  
     
 }
 header img {
@@ -73,7 +74,7 @@ menu > ul > li > a:hover{
 }
 
 main{
-    width: 100%;
+    width: 90vw;
     background-color: white;
     margin: auto;
     margin-top: 10px;
