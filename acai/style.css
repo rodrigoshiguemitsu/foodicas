@@ -32,7 +32,7 @@ header > h1 .nome{
 }
 
 main{
-    width: 90vw;
+    width: 90%;
     background-color: white;
     margin: auto;
     margin-top: 10px;
@@ -54,4 +54,9 @@ a div{
 }
 div:hover{
     background-color: yellow;
+}
+article {
+    display: block;
+    margin: auto;
+    text-align: center;
 }
