@@ -23,9 +23,12 @@ header h1 {
 }
 
 main {
-    width: 90%;
-    background-color: pink;
+    width: 90vw;
+    background-color:pink;
     margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
    
 }
 
