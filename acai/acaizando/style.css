@@ -12,14 +12,22 @@ body{
 }
 
 header h1 {
+    position: fixed;
     text-align: center;
     background-color: white;
     width: 100%;
     margin: auto;
+    margin-top: -20px;
 }
+
+.icozap {
+position: fixed; bottom:20px; right: 20px;
+
+}
+
 ::-webkit-scrollbar {
     height: 2px;
-    width: 2px;
+    width: 0px;
 }
 
 main {
@@ -75,8 +83,37 @@ h2 {
     margin: auto;
     text-align: center;
     
+    
 }
 .car2 img {
     width: 150px;
     height: 150px;
 }
+
+.sobnos {
+    max-width: 94%;
+    margin: auto;
+    margin-top: 10px;
+    text-align: left;
+    margin-bottom: -30px;
+    border-radius: 10px 10px 0px 0px ;
+    background-color: white;
+    color: black;
+}
+.pprincipal h1 {
+    width: 90vw;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: white;
+    text-indent: 25px;
+}
+.pprincipal h1 p {
+    width: 70%;
+    text-align:justify;
+    margin-left: 30px;
+}
+
+
+
