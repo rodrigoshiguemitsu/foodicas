@@ -69,11 +69,12 @@ h2 {
 #carpri1 p {
     margin-top: 15px;
     background-color: white;
-    height: 300px;
+    height: 250px;
 }
 .car2 {
-    margin: 10px;
+    margin: auto;
     text-align: center;
+    
 }
 .car2 img {
     width: 150px;
