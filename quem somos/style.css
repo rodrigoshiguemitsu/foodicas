@@ -38,6 +38,7 @@ header a {
 main{
     max-width: 768px;
     width: 90vw;
+    height: 100%;
     background-color: white;
     margin: auto;
     margin-top: 10px;
@@ -61,8 +62,8 @@ main{
     width: 110px;
     height: 110px;
     float: right;
-    margin-top: -150px;
-    margin-right:10px;
+    margin-top: -200px;
+    margin-right:0px;
 }
 #qsomos p {
     width: 70%;
@@ -86,6 +87,7 @@ main{
 #foc h2 {
     text-align: center;
     margin-bottom: 10px;
+    margin-top: 50px;
 }
 #foc p {
     width: 70%;
@@ -106,8 +108,8 @@ main{
     width: 150px;
     height: 300px;
     float:right;
-    margin-top: -300px;
-    margin-right: 20px;
+    margin-top: -320px;
+    margin-right: 0px;
 }
 #obj h2 {
     text-align: center;
@@ -131,7 +133,7 @@ footer {
     color: white;
     height: 30px;
     width: 100%;
-    margin-top:30px;
+    margin-top:50px;
     padding-top: 15px;
     text-align: center;
     font: bold;
