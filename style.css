@@ -28,7 +28,7 @@ header img {
 header > h1 .nome{
     padding: 15px;
     padding-bottom:5px;
-    text-align: center;
+    text-align: left;
     color: rgb(238, 5, 5);
 }
 header > h1 .qsomos a{ 
