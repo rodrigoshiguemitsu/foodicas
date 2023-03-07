@@ -113,9 +113,9 @@ main{
 }
 #obj img {
     width: 150px;
-    height: 300px;
+    height: 400px;
     float:right;
-    margin-top: -320px;
+    margin-top: -410px;
     margin-right: -20px;
 }
 #obj h2 {
